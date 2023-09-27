@@ -29,3 +29,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhadip-kundu&show_icons=true&locale=en&layout=compact" alt="subhadip-kundu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhadip-kundu&show_icons=true&locale=en" alt="subhadip-kundu" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhadip-kundu&" alt="subhadip-kundu" /></p>
