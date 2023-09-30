@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhadip-kundu&label=Profile%20views&color=0e75b6&style=flat" alt="subhadip-kundu" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 👨🏻‍🏫 I’m currently learning **Full Stack Web Development(MERN)**
 
-- 💬 Ask me about **JavaScript , React , Node**
+- 👨🏻‍💻 Skilled in **JavaScript , React , Node**
 
-- 📫 How to reach me **subhadpkundu106@gmail.com**
+- 📫 Email me **subhadpkundu106@gmail.com**
 
 - 📄 My [Resume](https://tinyurl.com/subhadip-kundu-resume)
 
