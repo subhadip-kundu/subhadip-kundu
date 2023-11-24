@@ -11,6 +11,8 @@
 
 - 📫 Email me **subhadpkundu106@gmail.com**
 
+- 📇 My [Portfolio](https://portfolio-subhadip.netlify.app/)
+
 - 📄 My [Resume](https://tinyurl.com/subhadip-kundu-resume)
 
 <h3 align="left">Connect with me:</h3>
