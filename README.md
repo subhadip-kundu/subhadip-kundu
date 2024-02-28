@@ -9,7 +9,7 @@
 
 - 👨🏻‍💻 Skilled in **JavaScript , React , Node**
 
-- 📫 Email me **subhadpkundu106@gmail.com**
+- 📫 Email me **subhadpkundu1107@gmail.com**
 
 - 📇 My [Portfolio](https://subhadipkundu.netlify.app/)
 
