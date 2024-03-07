@@ -7,7 +7,7 @@
 
 - 👨🏻‍🏫 I’m currently learning **Full Stack Web Development(MERN)**
 
-- 👨🏻‍💻 Skilled in **JavaScript , React , Node**
+- 👨🏻‍💻 Skilled in **JavaScript , React , Node , Java**
 
 - 📫 Email me **subhadpkundu1107@gmail.com**
 
