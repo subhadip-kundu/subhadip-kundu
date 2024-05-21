@@ -13,7 +13,7 @@
 
 - 📇 My [Portfolio](https://subhadipkundu.netlify.app/)
 
-- 📄 My [Resume](https://github.com/subhadip-kundu/subhadip-kundu/files/14785600/SUBHADIP.KUNDU_CSE_2024.pdf)
+- 📄 My [Resume](https://github.com/subhadip-kundu/subhadip-kundu/files/14785600/SUBHADIP.KUNDU_CSE_2024.pdf) 
 
 
 <h3 align="left">Connect with me:</h3>
