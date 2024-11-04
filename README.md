@@ -13,7 +13,8 @@
 
 - 📇 My [Portfolio](https://subhadipkundu.netlify.app/)
 
-- 📄 My [Resume](https://github.com/user-attachments/files/15856448/SUBHADIP_KUNDU.pdf)
+- 📄 My [Resume](https://github.com/user-attachments/files/17613723/SUBHADIP_KUNDU_2024.pdf)
+
 
 
 
